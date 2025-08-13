@@ -27,7 +27,7 @@ Mi objetivo es seguir creciendo como desarrollador, aportando soluciones funcion
 - **All Cloud Consulting** – Desarrollador web (prácticas)  
   Creación de prototipos con Java + Spring Boot, consultas SQL, pruebas unitarias y trabajo en equipo usando Git.
 
-- **RTVE** – Operador de emisión / Técnico de sistemas  
+- **RTVE** – Ayudante de emisión / Editor u operador area de continuidad  
   Gestión de escaletas, control de continuidad y resolución de incidencias técnicas en emisión en directo.
 
 ---
