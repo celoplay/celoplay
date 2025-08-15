@@ -1,3 +1,6 @@
+<!-- Banner -->
+![Banner](https://ruta-de-tu-banner.png)
+
 <h1 align="center">👋 ¡Hola! Soy Marcelo Aizaga</h1>
 <h3 align="center">Desarrollador Web Junior | Valencia, España</h3>
 
@@ -16,23 +19,23 @@
 ---
 
 ## 🧑‍💻 Sobre mí
-Soy **Desarrollador de Aplicaciones Web** con experiencia en **Angular, Java, Spring Boot y MySQL**, graduado en DAW y con una base sólida como Técnico Superior en Telecomunicaciones e Informática.  
+Soy **Desarrollador de Aplicaciones Web** graduado en **DAW**, con experiencia en **Angular, Java, Spring Boot, MySQL** y otras tecnologías.  
 
-He trabajado en **RTVE** en entornos de emisión televisiva y en **All Cloud Consulting** desarrollando aplicaciones web.  
-Mi objetivo es seguir creciendo como desarrollador, aportando soluciones funcionales, código limpio y buenas prácticas en entornos colaborativos.
+Me apasiona crear aplicaciones funcionales con **código limpio** y seguir aprendiendo nuevas herramientas para mejorar mis habilidades.  
+Actualmente continúo formándome y desarrollando proyectos personales que puedes ver aquí en mi GitHub.
 
 ---
 
-## 💼 Experiencia destacada
+## 💼 Experiencia
 - **All Cloud Consulting** – Desarrollador web (prácticas)  
-  Creación de prototipos con Java + Spring Boot, consultas SQL, pruebas unitarias y trabajo en equipo usando Git.
+  Desarrollo con **Java + Spring Boot**, consultas SQL, pruebas unitarias, colaboración en equipo con Git.
 
-- **RTVE** – Ayudante de emisión / Editor u operador area de continuidad  
-  Gestión de escaletas, control de continuidad y resolución de incidencias técnicas en emisión en directo.
+- **RTVE** – Ayudante de emisión / Continuidad  
+  Control de emisión, gestión de escaletas, resolución de incidencias en directo.
 
 ---
 
-## 🚀 Tecnologías y herramientas
+## 🚀 Tecnologías
 
 **Frontend**  
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
@@ -58,12 +61,13 @@ Mi objetivo es seguir creciendo como desarrollador, aportando soluciones funcion
 
 ---
 
-## 📂 Proyectos destacados
+## 📂 Proyectos Destacados
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
 | [📇 List Contacts App](https://github.com/celoplay/list-contacts-app) | CRUD de contactos con Angular y TypeScript. | Angular · TypeScript |
 | [🍹 Cocktail App](https://github.com/celoplay/cocktail-app) | Búsqueda de cócteles mediante API pública. | Angular · TypeScript |
 | [✅ Task List App](https://github.com/celoplay/task-list-app) | Gestión de tareas con filtros y estado. | Angular · TypeScript |
+| [📂 TFG – Asignaciones FCT](https://github.com/celoplay/TFG) | Aplicación web para gestión de asignaciones FCT (Spring Boot + Thymeleaf). | Java · Spring Boot · MySQL |
 
 ---
 
@@ -73,5 +77,10 @@ Mi objetivo es seguir creciendo como desarrollador, aportando soluciones funcion
 - 🖥️ **GitHub:** [github.com/celoplay](https://github.com/celoplay)  
 
 ---
+## 📜 Licencia
+Mis proyectos están bajo licencia **MIT** salvo que se indique lo contrario.  
+Consulta cada repositorio para más detalles.
 
-⭐ *Gracias por visitar mi perfil. Busco oportunidades como **Desarrollador Web Junior** para aportar valor y seguir creciendo profesionalmente.*
+---
+
+⭐ *Gracias por visitar mi perfil. Estoy abierto a oportunidades como **Desarrollador Web Junior** para aportar valor y seguir creciendo profesionalmente.*
