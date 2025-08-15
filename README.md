@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://ruta-de-tu-banner.png)
+![Banner](banner.png)
 
 <h1 align="center">👋 ¡Hola! Soy Marcelo Aizaga</h1>
 <h3 align="center">Desarrollador Web Junior | Valencia, España</h3>
